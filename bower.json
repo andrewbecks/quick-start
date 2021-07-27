@@ -1,13 +1,13 @@
 {
-  "name": "friendsofcake-site",
+  "name": "openbroadcast301.ondigitalocean.app",
   "version": "2.0.0",
-  "description": "FriendsOfCake.com website.",
+  "description": "https://openbroadcast301.ondigitalocean.app/",
   "main": "index.html",
   "authors": [
     "See GitHub"
   ],
   "license": "MIT",
-  "homepage": "http://friendsofcake.com",
+  "homepage": "https://openbroadcast301.ondigitalocean.app/",
   "private": true,
   "ignore": [
     "**/.*",
